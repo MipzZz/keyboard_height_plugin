@@ -1,6 +1,6 @@
-# keyboard_height_plugin_example
+# example
 
-Demonstrates how to use the keyboard_height_plugin plugin.
+A new Flutter project.
 
 ## Getting Started
 
